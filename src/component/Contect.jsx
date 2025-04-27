@@ -29,7 +29,7 @@ function Contect() {
     e.preventDefault();
 
     try {
-      await axios.post('http://localhost:3005/contact', formData);
+      await axios.post('http://localhost:3000/contact', formData);
       toast.success("Contact Submited Successfully!");
       setFormData({
         name: '',

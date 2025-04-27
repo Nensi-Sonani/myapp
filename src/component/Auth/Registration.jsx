@@ -53,7 +53,7 @@ const Registration = () => {
         if (Object.keys(validationError).length === 0) {
             try {
                 // Check if user already exists by email
-                const response = await axios.get(`http://localhost:8000/users?email=${formData.email}`);
+                const response = await axios.get(`http://localhost:3000/users?email=${formData.email}`);
                 const existingUsers = response.data;
 
                 if (existingUsers.length > 0) {
@@ -62,7 +62,7 @@ const Registration = () => {
                 }
 
                 // If user not found, proceed to register
-                await axios.post('http://localhost:8000/users', formData);
+                await axios.post('http://localhost:3000/users', formData);
                 toast.success("Registrer successfully!");
                 navigate("/login");
             } catch (error) {

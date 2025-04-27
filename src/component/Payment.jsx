@@ -11,7 +11,7 @@ const Payment = () => {
         try {
             const token = localStorage.getItem("token"); // Get the token from localStorage
     
-            const response = await fetch("http://localhost:5000/orders", {
+            const response = await fetch("http://localhost:3000/orders", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
