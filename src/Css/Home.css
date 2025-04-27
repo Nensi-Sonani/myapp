@@ -1,0 +1,582 @@
+@import url('https://fonts.googleapis.com/css2?family=Antic+Didone&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.icons svg {
+  font-size: 25px;
+  margin: 0 10px;
+}
+
+.box {
+  display: flex;
+  width: 200px;
+  height: 200px;
+  /* background-color: #dcdee2; */
+}
+
+.formdata {
+  position: absolute;
+  background-color: #b0b1b5b8;
+  width: 500px;
+  height: 550px;
+  top: 10%;
+  left: 35%;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.formdata1 {
+  /* position: absolute; */
+  /* background-color: #6d5040d4; */
+  /* width: 350px;
+    height: 250px; */
+  /* top:30%;
+    left:35%; */
+  padding: 20px;
+  /* border-radius: 20px; */
+}
+
+.formdata table tr td,
+.formdata1 table tr td {
+  font-size: 18px;
+}
+
+.formdata input,
+.formdata1 input {
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+.btn1 {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+}
+
+.onbtn {
+  background-color: black;
+  font-size: 20px;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+footer {
+  background-color: #574b44;
+  color: white;
+}
+
+.footer-item ul li {
+  list-style: none;
+}
+
+.footer-item ul li a {
+  color: white !important;
+  text-decoration: none;
+}
+
+/* banner section  */
+
+/* .home-image {
+  background-image: url('https://i.ibb.co/SX9dP5TJ/banner1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  width: 100%;
+  height: 90vh;
+}
+
+.home-image1 {
+  background-image: url('https://i.ibb.co/WvqMYdGQ/banner3.png');
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: contain;
+  width: 100%;
+  height: 90vh;
+}
+
+.home-image2 {
+  background-image: url('https://i.ibb.co/YF1Qywf9/banner2.png');
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: contain;
+  width: 100%;
+  height: 90vh;
+}
+.home-image3 {
+  background-image: url('https://i.ibb.co/YF1Qywf9/banner2.png');
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  width: 100%;
+  height: 90vh;
+} */
+
+
+/* banner section */
+/* banner section - updated correctly */
+.banner-nailedjewel {
+  background-color: #000000;
+  /* Light brown background */
+  height: 100vh;
+  /* Set the full visible banner height */
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  font-family: 'Antic Didone', serif;
+}
+
+.banner-content {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  /* Full height for the content */
+  max-width: 1440px;
+  /* margin: 0 auto;
+  padding: 0 40px; */
+}
+
+.left-side {
+  flex: 1 1;
+  color: #fff;
+  padding: 40px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.left-side h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+  font-weight: 500;
+}
+
+.left-side .quote {
+  font-size: 20px;
+  font-style: italic;
+  margin-bottom: 30px;
+  color: white;
+  text-align: center;
+}
+
+.left-side .offer {
+  font-size: 32px;
+  margin-bottom: 10px;
+  color: white;
+}
+
+.left-side .new-arrivals {
+  font-size: 24px;
+  font-weight: 400;
+  color: white;
+}
+
+.right-side {
+  flex: 1;
+  height: 100%;
+  overflow: hidden;
+}
+
+.right-side img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: right;
+}
+
+
+
+/* Background images individually */
+/* .home-image {
+  background-image: url('https://i.ibb.co/Y7272ZJj/Whats-App-Image-2025-04-26-at-22-28-59-a5b41530.jpg');
+}
+
+.home-image1 {
+  background-image: url('https://i.ibb.co/B2G7b3Y4/banner4.png');
+}
+
+.home-image2 {
+  background-image: url('https://i.ibb.co/YF1Qywf9/banner2.png');
+} */
+
+/* .swiper-button-prev, .swiper-button-next{
+  color: #ffffff !important;
+} */
+
+/* .swiper {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -150px;
+  margin-top: -150px;
+} */
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+}
+
+
+.o1 {
+  font-size: 35px;
+  font-weight: 700;
+  color: #E8E8E8;
+}
+
+.o2 {
+  font-size: 50px;
+  font-weight: 900;
+  color: #FECA84;
+}
+
+
+.section-padding {
+  padding: 80px 0;
+}
+
+.page-width {
+  max-width: 1440px;
+  padding: 0 40px;
+  margin: 0 auto;
+}
+
+.stonequalityimg img {
+  width: 100%;
+  height: 100%;
+}
+
+.stonequalityimg {
+  padding: 0 16px 0 0;
+}
+
+.stoneqalitytext {
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+}
+
+
+.stoneqalitytext h2,
+.stoneqalitytext2 h3 {
+  position: relative;
+  margin-bottom: 16px;
+  font-family: "Antic Didone", serif;
+  color: #000000;
+  font-size: 32px;
+}
+
+.stoneqalitytext h2::after {
+  content: "";
+  display: block;
+  border-bottom: 1px solid #a38473;
+  width: 190px;
+  margin-top: 10px;
+  z-index: 1;
+  color: #574b44;
+}
+
+.stoneqalitytext p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  line-height: 25px;
+  color: #574b44;
+  width: 80%;
+
+}
+
+.stoneqalitytext2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.stoneqalitytext2 h3::after {
+  content: "";
+  display: block;
+  border-bottom: 1px solid #a38473;
+  position: absolute;
+  z-index: 1;
+  color: #574b44;
+  width: 263px;
+  margin-top: 10px;
+}
+
+/* ==================================================== */
+
+
+.wintter {
+  background-image: url("https://i.ibb.co/jk5rDDcp/j.jpg");
+  width: 100%;
+  height: 80vh;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  /* z-index: -1; */
+}
+
+.wintter-overly {
+  width: 100%;
+  height: 80vh;
+  /* background-color: #776f6f68; */
+}
+
+.winter-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  height: 75vh;
+}
+
+.winter-text .gnw {
+  /* position: absolute; */
+  /* top: 150px; */
+  /* left: 100px; */
+  color: #000000;
+  font-size: 48px;
+  font-weight: 400;
+  /* text-transform: uppercase; */
+  font-family: "Antic Didone", serif;
+  margin: 0 0 15px 0;
+  /* font-weight: 700; */
+}
+
+.winter-text .collection {
+  /* position: absolute; */
+  /* top: 200px; */
+  /* left: 100px; */
+  /* font-size: 30px; */
+  font-family: "Montserrat", sans-serif;
+  width: 40%;
+  font-size: 14px;
+  font-weight: 400;
+  color: #fbfbfb;
+  color: #000000;
+  /* font-weight: 900; */
+  /* color: transparent; */
+  /* -webkit-text-stroke: 1px #463e3e; */
+}
+
+.winter-text button {
+  appearance: none;
+  position: relative;
+  padding: 16px 48px;
+  background: #000000;
+  color: #fbfbfb;
+  display: inline-block;
+  width: auto;
+  font-size: 14px;
+  line-height: 17px;
+  text-decoration: none;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  border: 0;
+  letter-spacing: .115em;
+  text-transform: uppercase;
+  transition: all .3sease;
+}
+
+/* ====================================================== */
+.service {
+  padding: 50px 0;
+  background-color: #000000;
+}
+
+.service p {
+  font-family: "Antic Didone", serif;
+  font-size: 18px;
+  color: #fbfbfb;
+}
+
+.service .box {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.service .mainbox {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.swiper-pagination-bullet-active {
+  background: #ffffff !important;
+}
+
+
+.banner-content {
+  position: relative;
+}
+
+.stars {
+  position: absolute;
+  width: 100px;
+  height: 120px;
+  right: 34.8%;
+  top: 10%;
+}
+
+.stars img {
+  width: 100%;
+  height: auto;
+}
+
+.star {
+  position: absolute;
+  width: 100px;
+  height: 120px;
+  left: -5%;
+  bottom: 10%;
+}
+
+.star img {
+  width: 100%;
+  height: auto;
+}
+
+.stars-k {
+  position: absolute;
+  width: 100px;
+  height: 120px;
+  right: 37.1%;
+  top: 10%;
+}
+
+.stars-k img {
+  width: 100%;
+  height: auto;
+}
+
+
+.video-banner {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  /* Full screen height */
+  overflow: hidden;
+}
+
+.background-video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+  /* Semi-transparent black overlay */
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.overlay button {
+  appearance: none;
+  position: relative;
+  padding: 16px 48px;
+  background: #a38473;
+  color: #fbfbfb;
+  display: inline-block;
+  width: auto;
+  font-size: 14px;
+  line-height: 17px;
+  text-decoration: none;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  border: 0;
+  letter-spacing: .115em;
+  text-transform: uppercase;
+  transition: all .3sease;
+  border-radius: 0;
+  margin-bottom: 60px;
+}
+
+
+.review-section {
+  background: linear-gradient(to right, #f9f9f9, #ffffff);
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 2.8rem;
+  margin-bottom: 40px;
+  color: #333;
+  font-family: 'Playfair Display', serif;
+  letter-spacing: 1px;
+}
+
+.reviews-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.review-card {
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 20px;
+  padding: 30px 20px;
+  width: 300px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.review-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+}
+
+.reviewer-image {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 15px;
+  border: 2px solid #ddd;
+}
+
+.reviewer-name {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #555;
+  margin: 10px 0 5px;
+}
+
+.review-rating {
+  font-size: 1.4rem;
+  color: #ffc107;
+  margin-bottom: 15px;
+}
+
+.review-comment {
+  font-style: italic;
+  color: #777;
+  margin: 15px 0;
+}
+
+.review-date {
+  font-size: 0.9rem;
+  color: #aaa;
+}

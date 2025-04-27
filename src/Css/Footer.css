@@ -1,0 +1,13 @@
+footer {
+  background-color: #000000;
+  color: white;
+}
+
+.footer-item ul li {
+  list-style: none;
+}
+
+.footer-item ul li a {
+  color: white !important;
+  text-decoration: none;
+}
