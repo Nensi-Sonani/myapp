@@ -11,7 +11,7 @@ const Payment = () => {
         try {
             const token = localStorage.getItem("token"); // Get the token from localStorage
     
-            const response = await fetch("http://localhost:3000/orders", {
+            const response = await fetch("https://naieldjewel.onrender.com/orders", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",

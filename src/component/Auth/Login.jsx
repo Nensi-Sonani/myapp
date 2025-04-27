@@ -45,7 +45,7 @@ const Login = () => {
     }
 
     // Make API request
-    axios.get('http://localhost:3000/users')
+    axios.get('https://naieldjewel.onrender.com/users')
       .then(response => {
         const users = response.data;
         const user = users.find(user => user.email === formData.email);

@@ -17,7 +17,7 @@ const Product = () => {
         const getProduct = async () => {
             setLoading(true);
             try {
-                const response = await fetch("http://localhost:3000/product");
+                const response = await fetch("https://naieldjewel.onrender.com/product");
                 const products = await response.json();
                 console.log("Fetched Products:", products);
                 setData(products);

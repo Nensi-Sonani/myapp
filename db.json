@@ -1,806 +1,820 @@
 {
-    "product": [
-        {
-            "productId": "1",
-            "id": "1",
-            "title": "14k Gold Bezel Setting Diamond Solitaire Bracelet 0.05ctw",
-            "category": "bracelet",
-            "description": "The beautifully simple design is a classic that can be worn both as an everyday accessory or for a special occasion such as a wedding or other formal event. It is also a great choice as a gift for a bridesmaid, bride-to-be or for a wedding anniversary.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11010YW-05_de930447-7676-4617-932c-85665d8249e8_635x_crop_center@2x.jpg?v=1631397580",
-            "price": "$169.00",
-            "rate": "5",
-            "size": ""
-        },
-        {
-            "productId": "2",
-            "id": "2",
-            "title": "14K Gold Trio Diamond Bracelet with Thin Chain",
-            "category": "bracelet",
-            "description": "A row of three flawless round-cut bezel-set diamonds sits at the center of a dainty 14K gold chain.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11008YW_1x1_77ae2016-148e-4c20-b0fa-35e0b8d2327f_635x_crop_center@2x.jpg?v=1631401507",
-            "price": "$194.50",
-            "rate": "4",
-            "size": ""
-        },
-        {
-            "productId": "3",
-            "id": "3",
-            "title": "14k Gold Cuban Link Bracelet w/ Bezel Setting Diamond",
-            "category": "bracelet",
-            "description": "A bracelet is an article of jewellery that is worn around the wrist. Bracelets may serve different uses, such as being worn as an ornament. When worn as ornaments, bracelets may have a supportive function to hold other items of decoration, such as charms.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11082YW_1x1_c8610821-afeb-435c-ac10-462ac4fd8380_635x_crop_center@2x.jpg?v=1633632245",
-            "price": "$435.00",
-            "rate": "3",
-            "size": ""
-        },
-        {
-            "productId": "4",
-            "id": "4",
-            "title": "14k Solid Gold Tiny Paper Clip Link Bracelet",
-            "category": "bracelet",
-            "description": "This 14k solid gold tiny paper clip link Bracelet is a delicate and dainty accessory that adds a touch of understated elegance to any outfit. Measuring 5x2mm in size, it's perfect for layering with other bracelets or wearing alone for a minimalist look. The high-quality 14k gold construction ensures this bracelet will last for years to come, making it a timeless piece to add to your jewelry collection.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/AB00029Y_1x1_d9cf6e81-3592-4d13-a02f-10efd1f7ff03_1024x1024.jpg?v=1635743990",
-            "price": "$195.00",
-            "rate": "5",
-            "size": ""
-        },
-        {
-            "productId": "5",
-            "id": "5",
-            "title": "14K Gold Bezel Setting Diamond Tennis Bracelet",
-            "category": "bracelet",
-            "description": "A bracelet is an article of jewellery that is worn around the wrist. Bracelets may serve different uses, such as being worn as an ornament. When worn as ornaments, bracelets may have a supportive function to hold other items of decoration, such as charms.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11088YW_1x1_36eb38c1-8436-42b7-8b0d-99376c738750_635x_crop_center@2x.jpg?v=1633632561",
-            "price": "$865.00",
-            "rate": "5",
-            "size": ""
-        },
-        {
-            "productId": "6",
-            "id": "6",
-            "title": "14K Dainty Diamond Solitaire Bracelet",
-            "category": "bracelet",
-            "description": "The beautifully simple design is a classic that can be worn both as an everyday accessory or for a special occasion such as a wedding or other formal event. It is also a great choice as a gift for a bridesmaid, bride-to-be or for a wedding anniversary.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11010YW-10_1x1_9ab2dab9-8da5-4330-9df7-8e1c4d4c65cf_635x_crop_center@2x.jpg?v=1631402061",
-            "price": "$265.00",
-            "rate": "5",
-            "size": ""
-        },
-        {
-            "productId": "7",
-            "id": "7",
-            "title": "14K Gold Diamond by The Yard Dangling Solitaire Bracelet",
-            "category": "bracelet",
-            "description": "A dainty 14K gold chain holds five dazzling round cut bezel-set diamond stations. We believe that quality is of the utmost importance. We handpick every flawless diamonds used in our handcrafted gold jewelry collection.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11001YW_1x1_47f5d3ca-2909-4003-ba55-9500b5221e31_635x_crop_center@2x.jpg?v=1631402213",
-            "price": "$380.00",
-            "rate": "4",
-            "size": ""
-        },
-        {
-            "productId": "8",
-            "id": "8",
-            "title": "14k Diamond and Sapphire Evil Eye Bracelet",
-            "category": "bracelet",
-            "description": "A bracelet is an article of jewellery that is worn around the wrist. Bracelets may serve different uses, such as being worn as an ornament. When worn as ornaments, bracelets may have a supportive function to hold other items of decoration, such as charms.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11034YWS_1x1_80a63208-540e-4f5f-8f51-5707b6fcabdb_635x_crop_center@2x.jpg?v=1631532786",
-            "price": "$315.00",
-            "rate": "4",
-            "size": ""
-        },
-        {
-            "productId": "9",
-            "id": "9",
-            "title": "14K Gold Dainty Baguette Diamond Bracelet",
-            "category": "bracelet",
-            "description": "The perfect gift for the woman who has it all, this baguette diamond bracelet is a beautiful memento she can cherish for a lifetime.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11059YW_1x1_512b25af-2d9c-4a17-b812-dbb4f26aefaf_635x_crop_center@2x.jpg?v=1631402437",
-            "price": "$235.00",
-            "rate": "5",
-            "size": ""
-        },
-        {
-            "productId": "10",
-            "id": "10",
-            "title": "14k Diamond by The Yard Solitaire Bracelet",
-            "category": "bracelet",
-            "description": "A bracelet is an article of jewellery that is worn around the wrist. Bracelets may serve different uses, such as being worn as an ornament. When worn as ornaments, bracelets may have a supportive function to hold other items of decoration, such as charms.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11064YW_1x1_51099b8e-035b-4ec0-9c17-595869dd84e7_635x_crop_center@2x.jpg?v=1631413548",
-            "price": "$390.00",
-            "rate": "5",
-            "size": ""
-        },
-        {
-            "productId": "11",
-            "id": "11",
-            "title": "14k Diamond Bar Bracelet",
-            "category": "bracelet",
-            "description": "Somehow things never get old with her. She always finds a way to take you by surprise and she lights you up like no other woman could. Return a little of that light this this breathtaking gold diamond bar necklace.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11003YW_1x1_9ee12321-5327-425a-b9bd-ba047f8e180d_635x_crop_center@2x.jpg?v=1636332581",
-            "price": "$260.00",
-            "rate": "5",
-            "size": ""
-        },
-        {
-            "productId": "12",
-            "id": "12",
-            "title": "14K Diamond Tennis Bracelet 2.20 ctw",
-            "category": "bracelet",
-            "description": "A bracelet is an article of jewellery that is worn around the wrist. Bracelets may serve different uses, such as being worn as an ornament. When worn as ornaments, bracelets may have a supportive function to hold other items of decoration, such as charms.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11100YW_1x1_e4d135ef-e235-482e-9efd-78e654c8e3a1_635x_crop_center@2x.jpg?v=1631533753",
-            "price": "$214.00",
-            "rate": "5",
-            "size": ""
-        },
-        {
-            "productId": 13,
-            "id": 13,
-            "title": "14K Gold Diamond Hoop Earrings",
-            "category": "Earrings",
-            "description": "Drape your ears in stunning sparkle with our 14k gold diamond hoop earrings. The hoops feature a gorgeous micro pave set with seven small diamonds in each earring. Designed for women who like to let their hair down, these diamond hoops are the definition of laid-back elegance.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/E11076YW_1x1_111c42ba-269e-485b-8a29-4152c7db5132_635x_crop_center@2x.jpg?v=1679844553",
-            "price": "$455.00",
-            "rate": "5"
-        },
-        {
-            "productId": 14,
-            "id": 14,
-            "title": "14K Gold Mini Diamond Studs ",
-            "category": "Earrings",
-            "description": "Each earring features a single gleaming round cut prong-set diamond. Give a gift as everlasting as your love with these gorgeous dainty gold diamond stud earrings.",
-            "image": "https://cdn.shopify.com/s/files/1/2040/6431/products/E11042LS_1x1_a4e78703-84f6-482c-8ba4-428e92e104a5.jpg?v=1633303609&width=700",
-            "price": "$144.00",
-            "rate": "4"
-        },
-        {
-            "productId": 15,
-            "id": 15,
-            "title": "14K Gold Diamond Bar Stud Earrings",
-            "category": "Errings",
-            "description": "Each earring features a single gleaming round cut prong-set diamond. Give a gift as everlasting as your love with these gorgeous dainty gold diamond stud earrings.",
-            "image": "https://cdn.shopify.com/s/files/1/2040/6431/products/E11049YWLS_1x1_ac1f5523-d02d-4971-aafd-efe2f5aefd7f.jpg?v=1631361548&width=700",
-            "price": "$220.00",
-            "rate": "5"
-        },
-        {
-            "productId": 16,
-            "id": 16,
-            "title": "14k Prong Setting Round Diamond Studs",
-            "category": "Earrings",
-            "description": "Update your look with our stunning diamond bar earrings. Modern and chic, each earring includes six round diamonds in a micro pave setting. The diamond bar earrings are handcrafted and made to order for a luxury accessory that will always look its best. The simple bar design and dainty size makes these diamond earrings easy to pair with almost anything",
-            "image": "https://cdn.shopify.com/s/files/1/2040/6431/products/E11095LS_1x1_d9a8eeb9-70b5-41fa-bbad-fe4ad1b16de1.jpg?v=1631361184&width=700",
-            "price": "$199.00",
-            "rate": "3"
-        },
-        {
-            "productId": 17,
-            "id": 17,
-            "title": "14K Gold Horizontal Set Mini Baguette Diamond Huggie",
-            "category": "Earrings",
-            "description": "Each earring features a single gleaming round cut prong-set diamond. Give a gift as everlasting as your love with these gorgeous dainty gold diamond stud earrings.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/EE0008YW_1x1_2ecd6492-2966-4fa2-9a15-72637f96b438_635x_crop_center@2x.jpg?v=1633222735",
-            "price": "$660.00",
-            "rate": "5"
-        },
-        {
-            "productId": 18,
-            "id": 18,
-            "title": "14K Bezel Setting Round Diamond Studs",
-            "description": "Each earring features a single gleaming round cut prong-set diamond. Give a gift as everlasting as your love with these gorgeous dainty gold diamond stud earrings.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/E11094YW_1x1_d9a75cbe-380a-4859-b41f-4f6a0797dde1_635x_crop_center@2x.jpg?v=1631360529",
-            "price": "$199.00",
-            "rate": "4"
-        },
-        {
-            "productId": 19,
-            "id": 19,
-            "title": "14K Gold Prong Setting Diamond Trio Tiny Stud Earrings",
-            "category": "Earrings",
-            "description": "Each earring features a single gleaming round cut prong-set diamond. Give a gift as everlasting as your love with these gorgeous dainty gold diamond stud earrings.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/E11011YW_1x1_4366baad-3e5b-471c-b7f2-6192be48f088_635x_crop_center@2x.jpg?v=1631361312",
-            "price": "$245.00",
-            "rate": "3"
-        },
-        {
-            "productId": 20,
-            "id": 20,
-            "title": "14K Gold Drop Single Spike Earrings",
-            "category": "Earrings",
-            "description": "Each earring features a single gleaming round cut prong-set diamond. Give a gift as everlasting as your love with these gorgeous dainty gold diamond stud earrings.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/AE00002Y_1x1_99dbeccc-a651-4315-b417-feaded17c333_635x_crop_center@2x.jpg?v=1679692990",
-            "price": "$250.00",
-            "rate": "2"
-        },
-        {
-            "productId": 21,
-            "id": 21,
-            "title": "14K Single Bezel Set Diamond Hoops",
-            "category": "Earrings",
-            "description": "Each precious gold stud earring features three dazzling round-cut prong-set diamonds.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/E11084YW_1x1_93eb51be-b0a7-44e8-b881-781b9faf37d4_635x_crop_center@2x.jpg?v=1631359879",
-            "price": "$350.00",
-            "rate": "1"
-        },
-        {
-            "productId": 22,
-            "id": 22,
-            "title": "14K Gold Mini Baguette Huggie Earrings",
-            "category": "Earrings",
-            "description": "A single spike extends from these edgy 14k gold hoop earrings. Each gorgeous piece in our exquisitely handcrafted gold fashion jewelry collection is made to order right here in the USA. Reach for these stylish spike earrings and get edgy and elegant all wrapped up into a tiny glittering package.",
-            "image": "https://ferkosfinejewelry.com/products/14k-mini-baguette-huggie-earrings",
-            "price": "$550.00",
-            "rate": "5"
-        },
-        {
-            "productId": 23,
-            "id": 23,
-            "title": "14K Hoop with Dangling Diamond",
-            "description": "Each earring features a single gleaming round cut prong-set diamond. Give a gift as everlasting as your love with these gorgeous dainty gold diamond stud earrings.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/E11087YW_1x1_9c7daed7-1213-4c85-96ab-227c8057d892_635x_crop_center@2x.jpg?v=1631359747",
-            "price": "$255.00",
-            "rate": "4"
-        },
-        {
-            "productId": 24,
-            "id": 24,
-            "title": "14K Gold Diamond Curved Bar Stud Earrings",
-            "description": "Each earring features a single gleaming round cut prong-set diamond. Give a gift as everlasting as your love with these gorgeous dainty gold diamond stud earrings.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/E11050YW_1x1_3346bb29-af52-41f5-a13c-fb57c9da2710_635x_crop_center@2x.jpg?v=1631361026",
-            "price": "$260.00",
-            "rate": "3"
-        },
-        {
-            "productId": 25,
-            "id": 25,
-            "title": "14K Gold Diamond Star Charm Necklace",
-            "category": "necklace",
-            "description": "A necklace is jewelry you wear around your neck. You might decide your sparkly faux-diamond necklace is a bit dressy for your cousin's baseball game — but perfect for a fancy dinner out. A necklace can be a simple gold or silver chain, a length of beads or gems, or a pendant hanging from a cord.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/N11253YW_1x1_98e4b39d-2924-4913-b75b-c2daf67b2fb0_635x_crop_center@2x.jpg?v=1631494512",
-            "price": "$195.00",
-            "rate": "4",
-            "size": ""
-        },
-        {
-            "productId": 26,
-            "id": 26,
-            "title": "14K Mini Diamond Horseshoe Necklace",
-            "category": "necklace",
-            "description": "A darling 14k gold horseshoe showcases 11 tiny stunning diamonds at the center of a thin gold chain. This stylish gold diamond horseshoe pendant necklace is a fabulous addition to a lucky lady's fashion jewelry collection.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/N11021YW_1x1_de35ffd6-62c4-4e37-90c6-110814ebdd5b_635x_crop_center@2x.jpg?v=1631495327",
-            "price": "$320.00",
-            "rate": "4",
-            "size": ""
-        },
-        {
-            "productId": 27,
-            "id": 27,
-            "title": "14K Gold Bezel Setting Diamond Tennis Necklace",
-            "category": "necklace",
-            "description": "Give your jewelry collection a personalized touch with our diamond tennis necklace. Subtle and sleek, this custom necklace is made from 14k gold. Handcrafted with love making it the perfect great gift for someone special or to add to your own personal collection.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/N11319YW_1x1_cdd1461b-c82c-47bc-8aeb-7222bb388be8_635x_crop_center@2x.jpg?v=1631497138",
-            "price": "$172.00",
-            "rate": "3",
-            "size": ""
-        },
-        {
-            "productId": 28,
-            "id": 28,
-            "title": "14K Gold Diamond Tag Initial Necklace",
-            "category": "necklace",
-            "description": "A necklace is jewelry you wear around your neck. You might decide your sparkly faux-diamond necklace is a bit dressy for your cousin's baseball game — but perfect for a fancy dinner out. A necklace can be a simple gold or silver chain, a length of beads or gems, or a pendant hanging from a cord.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/N11305YW_1x1_f0d6a2ff-6fd8-4add-a0ef-7df150fea4a4_635x_crop_center@2x.jpg?v=1631498534",
-            "price": "$315.00",
-            "rate": "5",
-            "size": ""
-        },
-        {
-            "productId": 29,
-            "id": 29,
-            "title": "14k Butterfly Necklace",
-            "category": "necklace",
-            "description": "A thin 14K gold chain holds a fluttering gold butterfly pendant. Create a gold fashion necklace that is perfect for you. Choose from: Rose Gold, Yellow Gold, and White Rhodium. This sweet butterfly pendant necklace is the perfect gift for anyone that is opening a new chapter in their life to become their own butterfly.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/Necklaces-2000_1x1-test_635x_crop_center@2x.jpg?v=1679354698",
-            "price": "$175.00",
-            "rate": "5",
-            "size": ""
-        },
-        {
-            "productId": 30,
-            "id": 30,
-            "title": "4K Circle Necklace with Bezel Set Diamond",
-            "category": "necklace",
-            "description": "Minimalist and modern, our gold circle necklace will add a fashion-forward look to your everyday wear. The necklace features an open circle pendant adorned with a single round cut diamond in a bezel setting. Handcrafted from 14k solid gold, this diamond circle necklace is a gorgeous example of expert craftsmanship combined contemporary design.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/N11258YW_1x1_4ff2a943-5d2b-4dc0-aa37-2eabf3e8d923_635x_crop_center@2x.jpg?v=1635392101",
-            "price": "$275.00",
-            "rate": "5",
-            "size": ""
-        },
-        {
-            "productId": 31,
-            "id": 31,
-            "title": "14K Circle Necklace with Bezel Set Diamond",
-            "category": "necklace",
-            "description": "Minimalist and modern, our gold circle necklace will add a fashion-forward look to your everyday wear. The necklace features an open circle pendant adorned with a single round cut diamond in a bezel setting. Handcrafted from 14k solid gold, this diamond circle necklace is a gorgeous example of expert craftsmanship combined contemporary design.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/N11258YW_1x1_4ff2a943-5d2b-4dc0-aa37-2eabf3e8d923_635x_crop_center@2x.jpg?v=1635392101",
-            "price": "$275.00",
-            "rate": "4",
-            "size": ""
-        },
-        {
-            "productId": 32,
-            "id": 32,
-            "title": "14K Baguette Diamond Disc Cluster Necklace",
-            "category": "necklace",
-            "description": "A necklace is jewelry you wear around your neck. You might decide your sparkly faux-diamond necklace is a bit dressy for your cousin's baseball game — but perfect for a fancy dinner out. A necklace can be a simple gold or silver chain, a length of beads or gems, or a pendant hanging from a cord.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/BP2156YW_1x1_b2f8912a-4cc0-40d2-82b5-d1dd5c2700a7_635x_crop_center@2x.jpg?v=1633632998",
-            "price": "$700.00",
-            "rate": "5",
-            "size": ""
-        },
-        {
-            "productId": 33,
-            "id": 33,
-            "title": "14K Gold Four Stone Diamond Cluster Necklace",
-            "category": "necklace",
-            "description": "Four flawless diamonds create a dazzling cluster pendant at the center of a thin gold adjustable length chain. We create every gorgeous piece in our masterfully handcrafted gold diamond jewelry collection right here in the USA. From happy hour to banquet dinners, this elegant gold diamond pendant necklace is the perfect transitional jewelry piece.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/N11016YW_1x1_0a1ac5bc-fbaf-433c-ab29-60845f66ae7c_635x_crop_center@2x.jpg?v=1631573044",
-            "price": "$290.00",
-            "rate": "4",
-            "size": ""
-        },
-        {
-            "productId": 34,
-            "id": 34,
-            "title": "14k Sideways Initial Necklace",
-            "category": "necklace",
-            "description": "https://ferkosfinejewelry.com/cdn/shop/products/AN00008LS2_1x1_e6fee365-2c8e-4c30-962f-0ce43f30831c_635x_crop_center@2x.jpg?v=1676517695",
-            "price": "$215.00",
-            "rate": "5",
-            "size": ""
-        },
-        {
-            "productId": 35,
-            "id": 35,
-            "title": "14K Gold Baguette & Round Diamond Charm Pendant",
-            "category": "necklace",
-            "description": "A necklace is jewelry you wear around your neck. You might decide your sparkly faux-diamond necklace is a bit dressy for your cousin's baseball game — but perfect for a fancy dinner out. A necklace can be a simple gold or silver chain, a length of beads or gems, or a pendant hanging from a cord.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/BP2654YW_1x1_84965a7c-c05c-4dbe-afde-710f40deeafa_635x_crop_center@2x.jpg?v=1631498845",
-            "price": "$430.00",
-            "rate": "5",
-            "size": ""
-        },
-        {
-            "productId": 36,
-            "id": 36,
-            "title": "14k Art Deco Trio Diamond Necklace",
-            "category": "necklace",
-            "description": "A necklace is jewelry you wear around your neck. You might decide your sparkly faux-diamond necklace is a bit dressy for your cousin's baseball game — but perfect for a fancy dinner out. A necklace can be a simple gold or silver chain, a length of beads or gems, or a pendant hanging from a cord.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/N11279YW_1x1_55f2d546-9921-4da4-a793-ee55334b463d_635x_crop_center@2x.jpg?v=1652577447",
-            "price": "$290.00",
-            "rate": "4",
-            "size": ""
-        },
-        {
-            "productId": 37,
-            "id": 37,
-            "title": "14K Gold 3 Stone Minimalist Diamond Ring",
-            "category": "ring",
-            "description": "ring, circular band of gold, silver, or some other precious or decorative material that is worn on the finger",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11353YW-3_1x1_ea036e1a-8a07-42a2-98fb-dcbe91597402_635x_crop_center@2x.jpg?v=1630545529",
-            "price": "$165.00",
-            "rate": "3",
-            "size": ""
-        },
-        {
-            "productId": 38,
-            "id": 38,
-            "title": "14K Ultra Thin 1MM Micro Pave Diamond Eternity Wedding Band",
-            "category": "ring",
-            "description": "This Beautiful diamond eternity band is our original design, featuring a full circle of gleaming micro pave diamonds set around the entire ring. At 1.0MM, this ultra-thin diamond band is the perfect complement to any engagement ring or to wear with stackable bands, and comes in your choice of a 14k Rose gold, white gold or yellow gold setting.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11056YW_1x1_19b1159b-bb2f-4b0a-860c-775dde4e03f9_635x_crop_center@2x.jpg?v=1631065443",
-            "price": "$375.00",
-            "rate": "5",
-            "size": ""
-        },
-        {
-            "productId": 39,
-            "id": 39,
-            "title": "14k Gold Diamond Cluster Ring",
-            "category": "ring",
-            "description": "Show off your shining personality in our effervescent diamond cluster ring. The ring features a gorgeous cluster design with nine white diamonds in a prong setting. Full of sparkle, this gold diamond ring will make your hand glimmer. The diamond ring is handcrafted and made to order for a luxury piece you can cherish for eternity.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11089YW_1x1_f13e4996-6609-4dd9-ad58-8687672f632c_635x_crop_center@2x.jpg?v=1631069717",
-            "price": "$345.00",
-            "rate": "4",
-            "size": ""
-        },
-        {
-            "productId": 40,
-            "id": 40,
-            "title": "14K Gold Stackable Vertical Baguette Diamond Ring",
-            "category": "ring",
-            "description": "ring, circular band of gold, silver, or some other precious or decorative material that is worn on the finger",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/ER0001EDI1_YW_1x1_2c06e58f-4c73-4f56-9057-18f20e31d0f9_635x_crop_center@2x.jpg?v=1630546662",
-            "price": "$475.00",
-            "rate": "5",
-            "size": ""
-        },
-        {
-            "productId": 41,
-            "id": 41,
-            "title": "14K Gold Half Eternity Micro Pave Diamond Ring",
-            "category": "ring",
-            "description": "ring, circular band of gold, silver, or some other precious or decorative material that is worn on the finger",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11056YW_YT_1x1_96f3ad1c-767f-4ffe-9320-88095304c381_635x_crop_center@2x.jpg?v=1630547142",
-            "price": "$350.00",
-            "rate": "5",
-            "size": ""
-        },
-        {
-            "productId": 42,
-            "id": 42,
-            "title": "14K Gold Minimal Sapphire and Diamond Ring",
-            "category": "ring",
-            "description": "ring, circular band of gold, silver, or some other precious or decorative material that is worn on the finger",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11353YWS-3_1x1_47a1c607-00ec-4a1b-b720-c9b80e1fe21d_635x_crop_center@2x.jpg?v=1630547889",
-            "price": "$120.00",
-            "rate": "5",
-            "size": ""
-        },
-        {
-            "productId": 43,
-            "id": 43,
-            "title": "14k Gold Diamond Stacking Ring",
-            "category": "ring",
-            "description": "Dainty and chic, our gold diamond ring is perfect as a standalone piece or as a stackable ring. The ring features a slim gold band with six round diamonds in a prong setting. The unique spaced out design adds an eye-catching look that will stand out amongst your stackable rings and become a favorite among your collection.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11101YW_1x1_456639c4-cfb7-46ea-a2f3-b643f5121e6e_635x_crop_center@2x.jpg?v=1630547354",
-            "price": "$220.00",
-            "rate": "4",
-            "size": ""
-        },
-        {
-            "productId": 44,
-            "id": 44,
-            "title": "14K Gold Black Diamond Eternity Band",
-            "category": "ring",
-            "description": "You can't go wrong with this simple and classic choice as a wedding band or anniversary ring, especially for the woman who has a more refined taste.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11078YB_TT_1x1_094da137-f1c3-4ad7-8051-9550586f6015_635x_crop_center@2x.jpg?v=1630557247",
-            "price": "$220.00",
-            "rate": "5",
-            "size": ""
-        },
-        {
-            "productId": 45,
-            "id": 45,
-            "title": "14K Gold 11 Stone Petite Diamond Wedding Band",
-            "category": "ring",
-            "description": "When buying jewelry, it’s imperative to purchase high-quality pieces that will last. Our family-owned business is proud to use only 14k & 18k solid goldand high-quality diamonds.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11353YW-11_1x1_06ef045f-692d-428d-a899-31a9a62f4590_635x_crop_center@2x.jpg?v=1630557523",
-            "price": "$325.00",
-            "rate": "",
-            "size": ""
-        },
-        {
-            "productId": 46,
-            "id": 46,
-            "title": "14k Baguette Emerald with Diamond Ring",
-            "category": "ring",
-            "description": "ring, circular band of gold, silver, or some other precious or decorative material that is worn on the finger",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11228YWE_1x1_790c0b35-0a8e-45b9-9c8f-70a51d0f3d11_635x_crop_center@2x.jpg?v=1630546507",
-            "price": "$198.00",
-            "rate": "3",
-            "size": ""
-        },
-        {
-            "productId": 47,
-            "id": 47,
-            "title": "14k Gold Diamond Cluster Ring",
-            "category": "ring",
-            "description": "Show off your shining personality in our effervescent diamond cluster ring. The ring features a gorgeous cluster design with nine white diamonds in a prong setting. Full of sparkle, this gold diamond ring will make your hand glimmer. The diamond ring is handcrafted and made to order for a luxury piece you can cherish for eternity.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11089YW_1x1_f13e4996-6609-4dd9-ad58-8687672f632c_635x_crop_center@2x.jpg?v=1631069717",
-            "price": "$345.00",
-            "rate": "5",
-            "size": ""
-        },
-        {
-            "productId": 48,
-            "id": 48,
-            "title": "14K Ultra Thin Half Eternity Baguette Diamond Stackable Ring",
-            "category": "ring",
-            "description": "ring, circular band of gold, silver, or some other precious or decorative material that is worn on the finger",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/ER0082YW_1x1_8ce1aae0-eb3d-4a30-9405-47141da591d2_635x_crop_center@2x.jpg?v=1631069603",
-            "price": "$380.00",
-            "rate": "5",
-            "size": ""
-        }
-    ],
-    "contact": [
-        {
-            "id": "b6ae",
-            "name": "Nensi Sonani",
-            "email": "nira@gmail.com",
-            "subject": "jjdd",
-            "questionAbout": "My Order",
-            "message": "kdhudjk",
-            "productType": "Ring",
-            "metalType": "14K White Gold",
-            "sizeLength": "2",
-            "stone": "Emerald",
-            "findUs": "csdcjdwpo"
-        },
-        {
-            "id": "1f25",
-            "name": "xyz",
-            "email": "xyz@gmail.com",
-            "subject": "vkdkckj",
-            "questionAbout": "My Order",
-            "message": "ncjsfjidsij",
-            "productType": "Ring",
-            "metalType": "18K White Gold",
-            "sizeLength": "3mm",
-            "stone": "marquise",
-            "findUs": "nddkjdfifij"
-        }
-    ],
-    "orders": [
-        {
-            "id": "6",
-            "productId": "6",
-            "title": "14K Dainty Diamond Solitaire Bracelet",
-            "category": "bracelet",
-            "description": "The beautifully simple design is a classic that can be worn both as an everyday accessory or for a special occasion such as a wedding or other formal event. It is also a great choice as a gift for a bridesmaid, bride-to-be or for a wedding anniversary.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11010YW-10_1x1_9ab2dab9-8da5-4330-9df7-8e1c4d4c65cf_635x_crop_center@2x.jpg?v=1631402061",
-            "price": "$265.00",
-            "rate": "5",
-            "size": "",
-            "quantity": 1
-        },
-        {
-            "id": "2",
-            "productId": "2",
-            "title": "14K Gold Trio Diamond Bracelet with Thin Chain",
-            "category": "bracelet",
-            "description": "A row of three flawless round-cut bezel-set diamonds sits at the center of a dainty 14K gold chain.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11008YW_1x1_77ae2016-148e-4c20-b0fa-35e0b8d2327f_635x_crop_center@2x.jpg?v=1631401507",
-            "price": "$194.50",
-            "rate": "4",
-            "size": "",
-            "quantity": 2
-        },
-        {
-            "id": "2",
-            "productId": "2",
-            "title": "14K Gold Trio Diamond Bracelet with Thin Chain",
-            "category": "bracelet",
-            "description": "A row of three flawless round-cut bezel-set diamonds sits at the center of a dainty 14K gold chain.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11008YW_1x1_77ae2016-148e-4c20-b0fa-35e0b8d2327f_635x_crop_center@2x.jpg?v=1631401507",
-            "price": "$194.50",
-            "rate": "4",
-            "size": "",
-            "quantity": 1
-        },
-        {
-            "id": "2",
-            "productId": "2",
-            "title": "14K Gold Trio Diamond Bracelet with Thin Chain",
-            "category": "bracelet",
-            "description": "A row of three flawless round-cut bezel-set diamonds sits at the center of a dainty 14K gold chain.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11008YW_1x1_77ae2016-148e-4c20-b0fa-35e0b8d2327f_635x_crop_center@2x.jpg?v=1631401507",
-            "price": "$194.50",
-            "rate": "4",
-            "size": "",
-            "quantity": 1
-        },
-        {
-            "id": "1",
-            "productId": "1",
-            "title": "14k Gold Bezel Setting Diamond Solitaire Bracelet 0.05ctw",
-            "category": "bracelet",
-            "description": "The beautifully simple design is a classic that can be worn both as an everyday accessory or for a special occasion such as a wedding or other formal event. It is also a great choice as a gift for a bridesmaid, bride-to-be or for a wedding anniversary.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11010YW-05_de930447-7676-4617-932c-85665d8249e8_635x_crop_center@2x.jpg?v=1631397580",
-            "price": "$169.00",
-            "rate": "5",
-            "size": "",
-            "quantity": 1
-        },
-        {
-            "id": "38",
-            "productId": 38,
-            "title": "14K Ultra Thin 1MM Micro Pave Diamond Eternity Wedding Band",
-            "category": "ring",
-            "description": "This Beautiful diamond eternity band is our original design, featuring a full circle of gleaming micro pave diamonds set around the entire ring. At 1.0MM, this ultra-thin diamond band is the perfect complement to any engagement ring or to wear with stackable bands, and comes in your choice of a 14k Rose gold, white gold or yellow gold setting.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11056YW_1x1_19b1159b-bb2f-4b0a-860c-775dde4e03f9_635x_crop_center@2x.jpg?v=1631065443",
-            "price": "$375.00",
-            "rate": "5",
-            "size": "",
-            "quantity": 1
-        },
-        {
-            "id": "1",
-            "productId": "1",
-            "title": "14k Gold Bezel Setting Diamond Solitaire Bracelet 0.05ctw",
-            "category": "bracelet",
-            "description": "The beautifully simple design is a classic that can be worn both as an everyday accessory or for a special occasion such as a wedding or other formal event. It is also a great choice as a gift for a bridesmaid, bride-to-be or for a wedding anniversary.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11010YW-05_de930447-7676-4617-932c-85665d8249e8_635x_crop_center@2x.jpg?v=1631397580",
-            "price": "$169.00",
-            "rate": "5",
-            "size": "",
-            "quantity": 1
-        },
-        {
-            "id": "2",
-            "productId": "2",
-            "title": "14K Gold Trio Diamond Bracelet with Thin Chain",
-            "category": "bracelet",
-            "description": "A row of three flawless round-cut bezel-set diamonds sits at the center of a dainty 14K gold chain.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11008YW_1x1_77ae2016-148e-4c20-b0fa-35e0b8d2327f_635x_crop_center@2x.jpg?v=1631401507",
-            "price": "$194.50",
-            "rate": "4",
-            "size": "",
-            "quantity": 2
-        },
-        {
-            "id": "1",
-            "productId": "1",
-            "title": "14k Gold Bezel Setting Diamond Solitaire Bracelet 0.05ctw",
-            "category": "bracelet",
-            "description": "The beautifully simple design is a classic that can be worn both as an everyday accessory or for a special occasion such as a wedding or other formal event. It is also a great choice as a gift for a bridesmaid, bride-to-be or for a wedding anniversary.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11010YW-05_de930447-7676-4617-932c-85665d8249e8_635x_crop_center@2x.jpg?v=1631397580",
-            "price": "$169.00",
-            "rate": "5",
-            "size": "",
-            "quantity": 1
-        },
-        {
-            "id": "2",
-            "productId": "2",
-            "title": "14K Gold Trio Diamond Bracelet with Thin Chain",
-            "category": "bracelet",
-            "description": "A row of three flawless round-cut bezel-set diamonds sits at the center of a dainty 14K gold chain.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11008YW_1x1_77ae2016-148e-4c20-b0fa-35e0b8d2327f_635x_crop_center@2x.jpg?v=1631401507",
-            "price": "$194.50",
-            "rate": "4",
-            "size": "",
-            "quantity": 1
-        },
-        {
-            "id": "1",
-            "productId": "1",
-            "title": "14k Gold Bezel Setting Diamond Solitaire Bracelet 0.05ctw",
-            "category": "bracelet",
-            "description": "The beautifully simple design is a classic that can be worn both as an everyday accessory or for a special occasion such as a wedding or other formal event. It is also a great choice as a gift for a bridesmaid, bride-to-be or for a wedding anniversary.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11010YW-05_de930447-7676-4617-932c-85665d8249e8_635x_crop_center@2x.jpg?v=1631397580",
-            "price": "$169.00",
-            "rate": "5",
-            "size": "",
-            "quantity": 1
-        },
-        {
-            "id": "1",
-            "productId": "1",
-            "title": "14k Gold Bezel Setting Diamond Solitaire Bracelet 0.05ctw",
-            "category": "bracelet",
-            "description": "The beautifully simple design is a classic that can be worn both as an everyday accessory or for a special occasion such as a wedding or other formal event. It is also a great choice as a gift for a bridesmaid, bride-to-be or for a wedding anniversary.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11010YW-05_de930447-7676-4617-932c-85665d8249e8_635x_crop_center@2x.jpg?v=1631397580",
-            "price": "$169.00",
-            "rate": "5",
-            "size": "",
-            "quantity": 1
-        },
-        {
-            "id": "1",
-            "productId": "1",
-            "title": "14k Gold Bezel Setting Diamond Solitaire Bracelet 0.05ctw",
-            "category": "bracelet",
-            "description": "The beautifully simple design is a classic that can be worn both as an everyday accessory or for a special occasion such as a wedding or other formal event. It is also a great choice as a gift for a bridesmaid, bride-to-be or for a wedding anniversary.",
-            "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11010YW-05_de930447-7676-4617-932c-85665d8249e8_635x_crop_center@2x.jpg?v=1631397580",
-            "price": "$169.00",
-            "rate": "5",
-            "size": "",
-            "quantity": 3
-        }
-    ],
-    "users": [
-        {
-            "id": "41f4",
-            "fname": "Nensi",
-            "lname": "SONANI",
-            "email": "nira@gmail.com",
-            "password": "1234567"
-        },
-        {
-            "id": "25ca",
-            "fname": "Nensi",
-            "lname": "SONANI",
-            "email": "nira@gmail.com",
-            "password": "1234567"
-        },
-        {
-            "id": "38c4",
-            "fname": "Nensi",
-            "lname": "SONANI",
-            "email": "nira@gmail.com",
-            "password": "1234567"
-        },
-        {
-            "id": "ce6d",
-            "fname": "Nensi",
-            "lname": "SONANI",
-            "email": "q@gmail.com",
-            "password": "12345678"
-        },
-        {
-            "id": "3bdc",
-            "email": "nira@gmail.com",
-            "password": "1234567"
-        },
-        {
-            "id": "7c21",
-            "email": "nira@gmail.com",
-            "password": "1234567"
-        },
-        {
-            "id": "4d4b",
-            "email": "nira@gmail.com",
-            "password": "1234567"
-        },
-        {
-            "id": "318b",
-            "email": "nira@gmail.com",
-            "password": "1234567"
-        },
-        {
-            "id": "e21d",
-            "fname": "Nensi",
-            "lname": "SONANI",
-            "email": "testuser3@gmail.com",
-            "password": "1234567"
-        },
-        {
-            "id": "1ec5",
-            "email": "testuser3@gmail.com",
-            "password": "1234567"
-        },
-        {
-            "id": "3d85",
-            "fname": "Nensi",
-            "lname": "SONANI",
-            "email": "d@gamil.com",
-            "password": "1234567"
-        },
-        {
-            "id": "f6f2",
-            "fname": "nen",
-            "lname": "hjdhf",
-            "email": "hjasgd@gmail.com",
-            "password": "12345678"
-        },
-        {
-            "id": "7af7",
-            "fname": "rgd",
-            "lname": "SONANI",
-            "email": "b@gmail.com",
-            "password": "123456789"
-        },
-        {
-            "id": "8920",
-            "fname": "edgt",
-            "lname": "dgd",
-            "email": "e@gmail.com",
-            "password": "123456"
-        },
-        {
-            "id": "e89d",
-            "fname": "Nensi",
-            "lname": "SONANI",
-            "email": "t@gmail.com",
-            "password": "1234567"
-        },
-        {
-            "id": "8733",
-            "fname": "abc",
-            "lname": "def",
-            "email": "abc@gmail.com",
-            "password": "123456"
-        }
-    ]
+  "product": [
+    {
+      "productId": "1",
+      "id": "1",
+      "title": "14k Gold Bezel Setting Diamond Solitaire Bracelet 0.05ctw",
+      "category": "bracelet",
+      "description": "The beautifully simple design is a classic that can be worn both as an everyday accessory or for a special occasion such as a wedding or other formal event. It is also a great choice as a gift for a bridesmaid, bride-to-be or for a wedding anniversary.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11010YW-05_de930447-7676-4617-932c-85665d8249e8_635x_crop_center@2x.jpg?v=1631397580",
+      "price": "$169.00",
+      "rate": "5",
+      "size": ""
+    },
+    {
+      "productId": "2",
+      "id": "2",
+      "title": "14K Gold Trio Diamond Bracelet with Thin Chain",
+      "category": "bracelet",
+      "description": "A row of three flawless round-cut bezel-set diamonds sits at the center of a dainty 14K gold chain.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11008YW_1x1_77ae2016-148e-4c20-b0fa-35e0b8d2327f_635x_crop_center@2x.jpg?v=1631401507",
+      "price": "$194.50",
+      "rate": "4",
+      "size": ""
+    },
+    {
+      "productId": "3",
+      "id": "3",
+      "title": "14k Gold Cuban Link Bracelet w/ Bezel Setting Diamond",
+      "category": "bracelet",
+      "description": "A bracelet is an article of jewellery that is worn around the wrist. Bracelets may serve different uses, such as being worn as an ornament. When worn as ornaments, bracelets may have a supportive function to hold other items of decoration, such as charms.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11082YW_1x1_c8610821-afeb-435c-ac10-462ac4fd8380_635x_crop_center@2x.jpg?v=1633632245",
+      "price": "$435.00",
+      "rate": "3",
+      "size": ""
+    },
+    {
+      "productId": "4",
+      "id": "4",
+      "title": "14k Solid Gold Tiny Paper Clip Link Bracelet",
+      "category": "bracelet",
+      "description": "This 14k solid gold tiny paper clip link Bracelet is a delicate and dainty accessory that adds a touch of understated elegance to any outfit. Measuring 5x2mm in size, it's perfect for layering with other bracelets or wearing alone for a minimalist look. The high-quality 14k gold construction ensures this bracelet will last for years to come, making it a timeless piece to add to your jewelry collection.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/AB00029Y_1x1_d9cf6e81-3592-4d13-a02f-10efd1f7ff03_1024x1024.jpg?v=1635743990",
+      "price": "$195.00",
+      "rate": "5",
+      "size": ""
+    },
+    {
+      "productId": "5",
+      "id": "5",
+      "title": "14K Gold Bezel Setting Diamond Tennis Bracelet",
+      "category": "bracelet",
+      "description": "A bracelet is an article of jewellery that is worn around the wrist. Bracelets may serve different uses, such as being worn as an ornament. When worn as ornaments, bracelets may have a supportive function to hold other items of decoration, such as charms.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11088YW_1x1_36eb38c1-8436-42b7-8b0d-99376c738750_635x_crop_center@2x.jpg?v=1633632561",
+      "price": "$865.00",
+      "rate": "5",
+      "size": ""
+    },
+    {
+      "productId": "6",
+      "id": "6",
+      "title": "14K Dainty Diamond Solitaire Bracelet",
+      "category": "bracelet",
+      "description": "The beautifully simple design is a classic that can be worn both as an everyday accessory or for a special occasion such as a wedding or other formal event. It is also a great choice as a gift for a bridesmaid, bride-to-be or for a wedding anniversary.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11010YW-10_1x1_9ab2dab9-8da5-4330-9df7-8e1c4d4c65cf_635x_crop_center@2x.jpg?v=1631402061",
+      "price": "$265.00",
+      "rate": "5",
+      "size": ""
+    },
+    {
+      "productId": "7",
+      "id": "7",
+      "title": "14K Gold Diamond by The Yard Dangling Solitaire Bracelet",
+      "category": "bracelet",
+      "description": "A dainty 14K gold chain holds five dazzling round cut bezel-set diamond stations. We believe that quality is of the utmost importance. We handpick every flawless diamonds used in our handcrafted gold jewelry collection.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11001YW_1x1_47f5d3ca-2909-4003-ba55-9500b5221e31_635x_crop_center@2x.jpg?v=1631402213",
+      "price": "$380.00",
+      "rate": "4",
+      "size": ""
+    },
+    {
+      "productId": "8",
+      "id": "8",
+      "title": "14k Diamond and Sapphire Evil Eye Bracelet",
+      "category": "bracelet",
+      "description": "A bracelet is an article of jewellery that is worn around the wrist. Bracelets may serve different uses, such as being worn as an ornament. When worn as ornaments, bracelets may have a supportive function to hold other items of decoration, such as charms.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11034YWS_1x1_80a63208-540e-4f5f-8f51-5707b6fcabdb_635x_crop_center@2x.jpg?v=1631532786",
+      "price": "$315.00",
+      "rate": "4",
+      "size": ""
+    },
+    {
+      "productId": "9",
+      "id": "9",
+      "title": "14K Gold Dainty Baguette Diamond Bracelet",
+      "category": "bracelet",
+      "description": "The perfect gift for the woman who has it all, this baguette diamond bracelet is a beautiful memento she can cherish for a lifetime.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11059YW_1x1_512b25af-2d9c-4a17-b812-dbb4f26aefaf_635x_crop_center@2x.jpg?v=1631402437",
+      "price": "$235.00",
+      "rate": "5",
+      "size": ""
+    },
+    {
+      "productId": "10",
+      "id": "10",
+      "title": "14k Diamond by The Yard Solitaire Bracelet",
+      "category": "bracelet",
+      "description": "A bracelet is an article of jewellery that is worn around the wrist. Bracelets may serve different uses, such as being worn as an ornament. When worn as ornaments, bracelets may have a supportive function to hold other items of decoration, such as charms.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11064YW_1x1_51099b8e-035b-4ec0-9c17-595869dd84e7_635x_crop_center@2x.jpg?v=1631413548",
+      "price": "$390.00",
+      "rate": "5",
+      "size": ""
+    },
+    {
+      "productId": "11",
+      "id": "11",
+      "title": "14k Diamond Bar Bracelet",
+      "category": "bracelet",
+      "description": "Somehow things never get old with her. She always finds a way to take you by surprise and she lights you up like no other woman could. Return a little of that light this this breathtaking gold diamond bar necklace.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11003YW_1x1_9ee12321-5327-425a-b9bd-ba047f8e180d_635x_crop_center@2x.jpg?v=1636332581",
+      "price": "$260.00",
+      "rate": "5",
+      "size": ""
+    },
+    {
+      "productId": "12",
+      "id": "12",
+      "title": "14K Diamond Tennis Bracelet 2.20 ctw",
+      "category": "bracelet",
+      "description": "A bracelet is an article of jewellery that is worn around the wrist. Bracelets may serve different uses, such as being worn as an ornament. When worn as ornaments, bracelets may have a supportive function to hold other items of decoration, such as charms.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11100YW_1x1_e4d135ef-e235-482e-9efd-78e654c8e3a1_635x_crop_center@2x.jpg?v=1631533753",
+      "price": "$214.00",
+      "rate": "5",
+      "size": ""
+    },
+    {
+      "productId": 13,
+      "id": "13",
+      "title": "14K Gold Diamond Hoop Earrings",
+      "category": "Earrings",
+      "description": "Drape your ears in stunning sparkle with our 14k gold diamond hoop earrings. The hoops feature a gorgeous micro pave set with seven small diamonds in each earring. Designed for women who like to let their hair down, these diamond hoops are the definition of laid-back elegance.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/E11076YW_1x1_111c42ba-269e-485b-8a29-4152c7db5132_635x_crop_center@2x.jpg?v=1679844553",
+      "price": "$455.00",
+      "rate": "5"
+    },
+    {
+      "productId": 14,
+      "id": "14",
+      "title": "14K Gold Mini Diamond Studs ",
+      "category": "Earrings",
+      "description": "Each earring features a single gleaming round cut prong-set diamond. Give a gift as everlasting as your love with these gorgeous dainty gold diamond stud earrings.",
+      "image": "https://cdn.shopify.com/s/files/1/2040/6431/products/E11042LS_1x1_a4e78703-84f6-482c-8ba4-428e92e104a5.jpg?v=1633303609&width=700",
+      "price": "$144.00",
+      "rate": "4"
+    },
+    {
+      "productId": 15,
+      "id": "15",
+      "title": "14K Gold Diamond Bar Stud Earrings",
+      "category": "Errings",
+      "description": "Each earring features a single gleaming round cut prong-set diamond. Give a gift as everlasting as your love with these gorgeous dainty gold diamond stud earrings.",
+      "image": "https://cdn.shopify.com/s/files/1/2040/6431/products/E11049YWLS_1x1_ac1f5523-d02d-4971-aafd-efe2f5aefd7f.jpg?v=1631361548&width=700",
+      "price": "$220.00",
+      "rate": "5"
+    },
+    {
+      "productId": 16,
+      "id": "16",
+      "title": "14k Prong Setting Round Diamond Studs",
+      "category": "Earrings",
+      "description": "Update your look with our stunning diamond bar earrings. Modern and chic, each earring includes six round diamonds in a micro pave setting. The diamond bar earrings are handcrafted and made to order for a luxury accessory that will always look its best. The simple bar design and dainty size makes these diamond earrings easy to pair with almost anything",
+      "image": "https://cdn.shopify.com/s/files/1/2040/6431/products/E11095LS_1x1_d9a8eeb9-70b5-41fa-bbad-fe4ad1b16de1.jpg?v=1631361184&width=700",
+      "price": "$199.00",
+      "rate": "3"
+    },
+    {
+      "productId": 17,
+      "id": "17",
+      "title": "14K Gold Horizontal Set Mini Baguette Diamond Huggie",
+      "category": "Earrings",
+      "description": "Each earring features a single gleaming round cut prong-set diamond. Give a gift as everlasting as your love with these gorgeous dainty gold diamond stud earrings.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/EE0008YW_1x1_2ecd6492-2966-4fa2-9a15-72637f96b438_635x_crop_center@2x.jpg?v=1633222735",
+      "price": "$660.00",
+      "rate": "5"
+    },
+    {
+      "productId": 18,
+      "id": "18",
+      "title": "14K Bezel Setting Round Diamond Studs",
+      "description": "Each earring features a single gleaming round cut prong-set diamond. Give a gift as everlasting as your love with these gorgeous dainty gold diamond stud earrings.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/E11094YW_1x1_d9a75cbe-380a-4859-b41f-4f6a0797dde1_635x_crop_center@2x.jpg?v=1631360529",
+      "price": "$199.00",
+      "rate": "4"
+    },
+    {
+      "productId": 19,
+      "id": "19",
+      "title": "14K Gold Prong Setting Diamond Trio Tiny Stud Earrings",
+      "category": "Earrings",
+      "description": "Each earring features a single gleaming round cut prong-set diamond. Give a gift as everlasting as your love with these gorgeous dainty gold diamond stud earrings.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/E11011YW_1x1_4366baad-3e5b-471c-b7f2-6192be48f088_635x_crop_center@2x.jpg?v=1631361312",
+      "price": "$245.00",
+      "rate": "3"
+    },
+    {
+      "productId": 20,
+      "id": "20",
+      "title": "14K Gold Drop Single Spike Earrings",
+      "category": "Earrings",
+      "description": "Each earring features a single gleaming round cut prong-set diamond. Give a gift as everlasting as your love with these gorgeous dainty gold diamond stud earrings.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/AE00002Y_1x1_99dbeccc-a651-4315-b417-feaded17c333_635x_crop_center@2x.jpg?v=1679692990",
+      "price": "$250.00",
+      "rate": "2"
+    },
+    {
+      "productId": 21,
+      "id": "21",
+      "title": "14K Single Bezel Set Diamond Hoops",
+      "category": "Earrings",
+      "description": "Each precious gold stud earring features three dazzling round-cut prong-set diamonds.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/E11084YW_1x1_93eb51be-b0a7-44e8-b881-781b9faf37d4_635x_crop_center@2x.jpg?v=1631359879",
+      "price": "$350.00",
+      "rate": "1"
+    },
+    {
+      "productId": 22,
+      "id": "22",
+      "title": "14K Gold Mini Baguette Huggie Earrings",
+      "category": "Earrings",
+      "description": "A single spike extends from these edgy 14k gold hoop earrings. Each gorgeous piece in our exquisitely handcrafted gold fashion jewelry collection is made to order right here in the USA. Reach for these stylish spike earrings and get edgy and elegant all wrapped up into a tiny glittering package.",
+      "image": "https://ferkosfinejewelry.com/products/14k-mini-baguette-huggie-earrings",
+      "price": "$550.00",
+      "rate": "5"
+    },
+    {
+      "productId": 23,
+      "id": "23",
+      "title": "14K Hoop with Dangling Diamond",
+      "description": "Each earring features a single gleaming round cut prong-set diamond. Give a gift as everlasting as your love with these gorgeous dainty gold diamond stud earrings.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/E11087YW_1x1_9c7daed7-1213-4c85-96ab-227c8057d892_635x_crop_center@2x.jpg?v=1631359747",
+      "price": "$255.00",
+      "rate": "4"
+    },
+    {
+      "productId": 24,
+      "id": "24",
+      "title": "14K Gold Diamond Curved Bar Stud Earrings",
+      "description": "Each earring features a single gleaming round cut prong-set diamond. Give a gift as everlasting as your love with these gorgeous dainty gold diamond stud earrings.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/E11050YW_1x1_3346bb29-af52-41f5-a13c-fb57c9da2710_635x_crop_center@2x.jpg?v=1631361026",
+      "price": "$260.00",
+      "rate": "3"
+    },
+    {
+      "productId": 25,
+      "id": "25",
+      "title": "14K Gold Diamond Star Charm Necklace",
+      "category": "necklace",
+      "description": "A necklace is jewelry you wear around your neck. You might decide your sparkly faux-diamond necklace is a bit dressy for your cousin's baseball game — but perfect for a fancy dinner out. A necklace can be a simple gold or silver chain, a length of beads or gems, or a pendant hanging from a cord.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/N11253YW_1x1_98e4b39d-2924-4913-b75b-c2daf67b2fb0_635x_crop_center@2x.jpg?v=1631494512",
+      "price": "$195.00",
+      "rate": "4",
+      "size": ""
+    },
+    {
+      "productId": 26,
+      "id": "26",
+      "title": "14K Mini Diamond Horseshoe Necklace",
+      "category": "necklace",
+      "description": "A darling 14k gold horseshoe showcases 11 tiny stunning diamonds at the center of a thin gold chain. This stylish gold diamond horseshoe pendant necklace is a fabulous addition to a lucky lady's fashion jewelry collection.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/N11021YW_1x1_de35ffd6-62c4-4e37-90c6-110814ebdd5b_635x_crop_center@2x.jpg?v=1631495327",
+      "price": "$320.00",
+      "rate": "4",
+      "size": ""
+    },
+    {
+      "productId": 27,
+      "id": "27",
+      "title": "14K Gold Bezel Setting Diamond Tennis Necklace",
+      "category": "necklace",
+      "description": "Give your jewelry collection a personalized touch with our diamond tennis necklace. Subtle and sleek, this custom necklace is made from 14k gold. Handcrafted with love making it the perfect great gift for someone special or to add to your own personal collection.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/N11319YW_1x1_cdd1461b-c82c-47bc-8aeb-7222bb388be8_635x_crop_center@2x.jpg?v=1631497138",
+      "price": "$172.00",
+      "rate": "3",
+      "size": ""
+    },
+    {
+      "productId": 28,
+      "id": "28",
+      "title": "14K Gold Diamond Tag Initial Necklace",
+      "category": "necklace",
+      "description": "A necklace is jewelry you wear around your neck. You might decide your sparkly faux-diamond necklace is a bit dressy for your cousin's baseball game — but perfect for a fancy dinner out. A necklace can be a simple gold or silver chain, a length of beads or gems, or a pendant hanging from a cord.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/N11305YW_1x1_f0d6a2ff-6fd8-4add-a0ef-7df150fea4a4_635x_crop_center@2x.jpg?v=1631498534",
+      "price": "$315.00",
+      "rate": "5",
+      "size": ""
+    },
+    {
+      "productId": 29,
+      "id": "29",
+      "title": "14k Butterfly Necklace",
+      "category": "necklace",
+      "description": "A thin 14K gold chain holds a fluttering gold butterfly pendant. Create a gold fashion necklace that is perfect for you. Choose from: Rose Gold, Yellow Gold, and White Rhodium. This sweet butterfly pendant necklace is the perfect gift for anyone that is opening a new chapter in their life to become their own butterfly.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/Necklaces-2000_1x1-test_635x_crop_center@2x.jpg?v=1679354698",
+      "price": "$175.00",
+      "rate": "5",
+      "size": ""
+    },
+    {
+      "productId": 30,
+      "id": "30",
+      "title": "4K Circle Necklace with Bezel Set Diamond",
+      "category": "necklace",
+      "description": "Minimalist and modern, our gold circle necklace will add a fashion-forward look to your everyday wear. The necklace features an open circle pendant adorned with a single round cut diamond in a bezel setting. Handcrafted from 14k solid gold, this diamond circle necklace is a gorgeous example of expert craftsmanship combined contemporary design.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/N11258YW_1x1_4ff2a943-5d2b-4dc0-aa37-2eabf3e8d923_635x_crop_center@2x.jpg?v=1635392101",
+      "price": "$275.00",
+      "rate": "5",
+      "size": ""
+    },
+    {
+      "productId": 31,
+      "id": "31",
+      "title": "14K Circle Necklace with Bezel Set Diamond",
+      "category": "necklace",
+      "description": "Minimalist and modern, our gold circle necklace will add a fashion-forward look to your everyday wear. The necklace features an open circle pendant adorned with a single round cut diamond in a bezel setting. Handcrafted from 14k solid gold, this diamond circle necklace is a gorgeous example of expert craftsmanship combined contemporary design.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/N11258YW_1x1_4ff2a943-5d2b-4dc0-aa37-2eabf3e8d923_635x_crop_center@2x.jpg?v=1635392101",
+      "price": "$275.00",
+      "rate": "4",
+      "size": ""
+    },
+    {
+      "productId": 32,
+      "id": "32",
+      "title": "14K Baguette Diamond Disc Cluster Necklace",
+      "category": "necklace",
+      "description": "A necklace is jewelry you wear around your neck. You might decide your sparkly faux-diamond necklace is a bit dressy for your cousin's baseball game — but perfect for a fancy dinner out. A necklace can be a simple gold or silver chain, a length of beads or gems, or a pendant hanging from a cord.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/BP2156YW_1x1_b2f8912a-4cc0-40d2-82b5-d1dd5c2700a7_635x_crop_center@2x.jpg?v=1633632998",
+      "price": "$700.00",
+      "rate": "5",
+      "size": ""
+    },
+    {
+      "productId": 33,
+      "id": "33",
+      "title": "14K Gold Four Stone Diamond Cluster Necklace",
+      "category": "necklace",
+      "description": "Four flawless diamonds create a dazzling cluster pendant at the center of a thin gold adjustable length chain. We create every gorgeous piece in our masterfully handcrafted gold diamond jewelry collection right here in the USA. From happy hour to banquet dinners, this elegant gold diamond pendant necklace is the perfect transitional jewelry piece.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/N11016YW_1x1_0a1ac5bc-fbaf-433c-ab29-60845f66ae7c_635x_crop_center@2x.jpg?v=1631573044",
+      "price": "$290.00",
+      "rate": "4",
+      "size": ""
+    },
+    {
+      "productId": 34,
+      "id": "34",
+      "title": "14k Sideways Initial Necklace",
+      "category": "necklace",
+      "description": "https://ferkosfinejewelry.com/cdn/shop/products/AN00008LS2_1x1_e6fee365-2c8e-4c30-962f-0ce43f30831c_635x_crop_center@2x.jpg?v=1676517695",
+      "price": "$215.00",
+      "rate": "5",
+      "size": ""
+    },
+    {
+      "productId": 35,
+      "id": "35",
+      "title": "14K Gold Baguette & Round Diamond Charm Pendant",
+      "category": "necklace",
+      "description": "A necklace is jewelry you wear around your neck. You might decide your sparkly faux-diamond necklace is a bit dressy for your cousin's baseball game — but perfect for a fancy dinner out. A necklace can be a simple gold or silver chain, a length of beads or gems, or a pendant hanging from a cord.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/BP2654YW_1x1_84965a7c-c05c-4dbe-afde-710f40deeafa_635x_crop_center@2x.jpg?v=1631498845",
+      "price": "$430.00",
+      "rate": "5",
+      "size": ""
+    },
+    {
+      "productId": 36,
+      "id": "36",
+      "title": "14k Art Deco Trio Diamond Necklace",
+      "category": "necklace",
+      "description": "A necklace is jewelry you wear around your neck. You might decide your sparkly faux-diamond necklace is a bit dressy for your cousin's baseball game — but perfect for a fancy dinner out. A necklace can be a simple gold or silver chain, a length of beads or gems, or a pendant hanging from a cord.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/N11279YW_1x1_55f2d546-9921-4da4-a793-ee55334b463d_635x_crop_center@2x.jpg?v=1652577447",
+      "price": "$290.00",
+      "rate": "4",
+      "size": ""
+    },
+    {
+      "productId": 37,
+      "id": "37",
+      "title": "14K Gold 3 Stone Minimalist Diamond Ring",
+      "category": "ring",
+      "description": "ring, circular band of gold, silver, or some other precious or decorative material that is worn on the finger",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11353YW-3_1x1_ea036e1a-8a07-42a2-98fb-dcbe91597402_635x_crop_center@2x.jpg?v=1630545529",
+      "price": "$165.00",
+      "rate": "3",
+      "size": ""
+    },
+    {
+      "productId": 38,
+      "id": "38",
+      "title": "14K Ultra Thin 1MM Micro Pave Diamond Eternity Wedding Band",
+      "category": "ring",
+      "description": "This Beautiful diamond eternity band is our original design, featuring a full circle of gleaming micro pave diamonds set around the entire ring. At 1.0MM, this ultra-thin diamond band is the perfect complement to any engagement ring or to wear with stackable bands, and comes in your choice of a 14k Rose gold, white gold or yellow gold setting.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11056YW_1x1_19b1159b-bb2f-4b0a-860c-775dde4e03f9_635x_crop_center@2x.jpg?v=1631065443",
+      "price": "$375.00",
+      "rate": "5",
+      "size": ""
+    },
+    {
+      "productId": 39,
+      "id": "39",
+      "title": "14k Gold Diamond Cluster Ring",
+      "category": "ring",
+      "description": "Show off your shining personality in our effervescent diamond cluster ring. The ring features a gorgeous cluster design with nine white diamonds in a prong setting. Full of sparkle, this gold diamond ring will make your hand glimmer. The diamond ring is handcrafted and made to order for a luxury piece you can cherish for eternity.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11089YW_1x1_f13e4996-6609-4dd9-ad58-8687672f632c_635x_crop_center@2x.jpg?v=1631069717",
+      "price": "$345.00",
+      "rate": "4",
+      "size": ""
+    },
+    {
+      "productId": 40,
+      "id": "40",
+      "title": "14K Gold Stackable Vertical Baguette Diamond Ring",
+      "category": "ring",
+      "description": "ring, circular band of gold, silver, or some other precious or decorative material that is worn on the finger",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/ER0001EDI1_YW_1x1_2c06e58f-4c73-4f56-9057-18f20e31d0f9_635x_crop_center@2x.jpg?v=1630546662",
+      "price": "$475.00",
+      "rate": "5",
+      "size": ""
+    },
+    {
+      "productId": 41,
+      "id": "41",
+      "title": "14K Gold Half Eternity Micro Pave Diamond Ring",
+      "category": "ring",
+      "description": "ring, circular band of gold, silver, or some other precious or decorative material that is worn on the finger",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11056YW_YT_1x1_96f3ad1c-767f-4ffe-9320-88095304c381_635x_crop_center@2x.jpg?v=1630547142",
+      "price": "$350.00",
+      "rate": "5",
+      "size": ""
+    },
+    {
+      "productId": 42,
+      "id": "42",
+      "title": "14K Gold Minimal Sapphire and Diamond Ring",
+      "category": "ring",
+      "description": "ring, circular band of gold, silver, or some other precious or decorative material that is worn on the finger",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11353YWS-3_1x1_47a1c607-00ec-4a1b-b720-c9b80e1fe21d_635x_crop_center@2x.jpg?v=1630547889",
+      "price": "$120.00",
+      "rate": "5",
+      "size": ""
+    },
+    {
+      "productId": 43,
+      "id": "43",
+      "title": "14k Gold Diamond Stacking Ring",
+      "category": "ring",
+      "description": "Dainty and chic, our gold diamond ring is perfect as a standalone piece or as a stackable ring. The ring features a slim gold band with six round diamonds in a prong setting. The unique spaced out design adds an eye-catching look that will stand out amongst your stackable rings and become a favorite among your collection.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11101YW_1x1_456639c4-cfb7-46ea-a2f3-b643f5121e6e_635x_crop_center@2x.jpg?v=1630547354",
+      "price": "$220.00",
+      "rate": "4",
+      "size": ""
+    },
+    {
+      "productId": 44,
+      "id": "44",
+      "title": "14K Gold Black Diamond Eternity Band",
+      "category": "ring",
+      "description": "You can't go wrong with this simple and classic choice as a wedding band or anniversary ring, especially for the woman who has a more refined taste.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11078YB_TT_1x1_094da137-f1c3-4ad7-8051-9550586f6015_635x_crop_center@2x.jpg?v=1630557247",
+      "price": "$220.00",
+      "rate": "5",
+      "size": ""
+    },
+    {
+      "productId": 45,
+      "id": "45",
+      "title": "14K Gold 11 Stone Petite Diamond Wedding Band",
+      "category": "ring",
+      "description": "When buying jewelry, it’s imperative to purchase high-quality pieces that will last. Our family-owned business is proud to use only 14k & 18k solid goldand high-quality diamonds.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11353YW-11_1x1_06ef045f-692d-428d-a899-31a9a62f4590_635x_crop_center@2x.jpg?v=1630557523",
+      "price": "$325.00",
+      "rate": "",
+      "size": ""
+    },
+    {
+      "productId": 46,
+      "id": "46",
+      "title": "14k Baguette Emerald with Diamond Ring",
+      "category": "ring",
+      "description": "ring, circular band of gold, silver, or some other precious or decorative material that is worn on the finger",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11228YWE_1x1_790c0b35-0a8e-45b9-9c8f-70a51d0f3d11_635x_crop_center@2x.jpg?v=1630546507",
+      "price": "$198.00",
+      "rate": "3",
+      "size": ""
+    },
+    {
+      "productId": 47,
+      "id": "47",
+      "title": "14k Gold Diamond Cluster Ring",
+      "category": "ring",
+      "description": "Show off your shining personality in our effervescent diamond cluster ring. The ring features a gorgeous cluster design with nine white diamonds in a prong setting. Full of sparkle, this gold diamond ring will make your hand glimmer. The diamond ring is handcrafted and made to order for a luxury piece you can cherish for eternity.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11089YW_1x1_f13e4996-6609-4dd9-ad58-8687672f632c_635x_crop_center@2x.jpg?v=1631069717",
+      "price": "$345.00",
+      "rate": "5",
+      "size": ""
+    },
+    {
+      "productId": 48,
+      "id": "48",
+      "title": "14K Ultra Thin Half Eternity Baguette Diamond Stackable Ring",
+      "category": "ring",
+      "description": "ring, circular band of gold, silver, or some other precious or decorative material that is worn on the finger",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/ER0082YW_1x1_8ce1aae0-eb3d-4a30-9405-47141da591d2_635x_crop_center@2x.jpg?v=1631069603",
+      "price": "$380.00",
+      "rate": "5",
+      "size": ""
+    }
+  ],
+  "contact": [
+    {
+      "id": "b6ae",
+      "name": "Nensi Sonani",
+      "email": "nira@gmail.com",
+      "subject": "jjdd",
+      "questionAbout": "My Order",
+      "message": "kdhudjk",
+      "productType": "Ring",
+      "metalType": "14K White Gold",
+      "sizeLength": "2",
+      "stone": "Emerald",
+      "findUs": "csdcjdwpo"
+    },
+    {
+      "id": "1f25",
+      "name": "xyz",
+      "email": "xyz@gmail.com",
+      "subject": "vkdkckj",
+      "questionAbout": "My Order",
+      "message": "ncjsfjidsij",
+      "productType": "Ring",
+      "metalType": "18K White Gold",
+      "sizeLength": "3mm",
+      "stone": "marquise",
+      "findUs": "nddkjdfifij"
+    }
+  ],
+  "orders": [
+    {
+      "id": "6",
+      "productId": "6",
+      "title": "14K Dainty Diamond Solitaire Bracelet",
+      "category": "bracelet",
+      "description": "The beautifully simple design is a classic that can be worn both as an everyday accessory or for a special occasion such as a wedding or other formal event. It is also a great choice as a gift for a bridesmaid, bride-to-be or for a wedding anniversary.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11010YW-10_1x1_9ab2dab9-8da5-4330-9df7-8e1c4d4c65cf_635x_crop_center@2x.jpg?v=1631402061",
+      "price": "$265.00",
+      "rate": "5",
+      "size": "",
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "productId": "2",
+      "title": "14K Gold Trio Diamond Bracelet with Thin Chain",
+      "category": "bracelet",
+      "description": "A row of three flawless round-cut bezel-set diamonds sits at the center of a dainty 14K gold chain.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11008YW_1x1_77ae2016-148e-4c20-b0fa-35e0b8d2327f_635x_crop_center@2x.jpg?v=1631401507",
+      "price": "$194.50",
+      "rate": "4",
+      "size": "",
+      "quantity": 2
+    },
+    {
+      "id": "2",
+      "productId": "2",
+      "title": "14K Gold Trio Diamond Bracelet with Thin Chain",
+      "category": "bracelet",
+      "description": "A row of three flawless round-cut bezel-set diamonds sits at the center of a dainty 14K gold chain.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11008YW_1x1_77ae2016-148e-4c20-b0fa-35e0b8d2327f_635x_crop_center@2x.jpg?v=1631401507",
+      "price": "$194.50",
+      "rate": "4",
+      "size": "",
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "productId": "2",
+      "title": "14K Gold Trio Diamond Bracelet with Thin Chain",
+      "category": "bracelet",
+      "description": "A row of three flawless round-cut bezel-set diamonds sits at the center of a dainty 14K gold chain.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11008YW_1x1_77ae2016-148e-4c20-b0fa-35e0b8d2327f_635x_crop_center@2x.jpg?v=1631401507",
+      "price": "$194.50",
+      "rate": "4",
+      "size": "",
+      "quantity": 1
+    },
+    {
+      "id": "1",
+      "productId": "1",
+      "title": "14k Gold Bezel Setting Diamond Solitaire Bracelet 0.05ctw",
+      "category": "bracelet",
+      "description": "The beautifully simple design is a classic that can be worn both as an everyday accessory or for a special occasion such as a wedding or other formal event. It is also a great choice as a gift for a bridesmaid, bride-to-be or for a wedding anniversary.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11010YW-05_de930447-7676-4617-932c-85665d8249e8_635x_crop_center@2x.jpg?v=1631397580",
+      "price": "$169.00",
+      "rate": "5",
+      "size": "",
+      "quantity": 1
+    },
+    {
+      "id": "38",
+      "productId": 38,
+      "title": "14K Ultra Thin 1MM Micro Pave Diamond Eternity Wedding Band",
+      "category": "ring",
+      "description": "This Beautiful diamond eternity band is our original design, featuring a full circle of gleaming micro pave diamonds set around the entire ring. At 1.0MM, this ultra-thin diamond band is the perfect complement to any engagement ring or to wear with stackable bands, and comes in your choice of a 14k Rose gold, white gold or yellow gold setting.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/R11056YW_1x1_19b1159b-bb2f-4b0a-860c-775dde4e03f9_635x_crop_center@2x.jpg?v=1631065443",
+      "price": "$375.00",
+      "rate": "5",
+      "size": "",
+      "quantity": 1
+    },
+    {
+      "id": "1",
+      "productId": "1",
+      "title": "14k Gold Bezel Setting Diamond Solitaire Bracelet 0.05ctw",
+      "category": "bracelet",
+      "description": "The beautifully simple design is a classic that can be worn both as an everyday accessory or for a special occasion such as a wedding or other formal event. It is also a great choice as a gift for a bridesmaid, bride-to-be or for a wedding anniversary.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11010YW-05_de930447-7676-4617-932c-85665d8249e8_635x_crop_center@2x.jpg?v=1631397580",
+      "price": "$169.00",
+      "rate": "5",
+      "size": "",
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "productId": "2",
+      "title": "14K Gold Trio Diamond Bracelet with Thin Chain",
+      "category": "bracelet",
+      "description": "A row of three flawless round-cut bezel-set diamonds sits at the center of a dainty 14K gold chain.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11008YW_1x1_77ae2016-148e-4c20-b0fa-35e0b8d2327f_635x_crop_center@2x.jpg?v=1631401507",
+      "price": "$194.50",
+      "rate": "4",
+      "size": "",
+      "quantity": 2
+    },
+    {
+      "id": "1",
+      "productId": "1",
+      "title": "14k Gold Bezel Setting Diamond Solitaire Bracelet 0.05ctw",
+      "category": "bracelet",
+      "description": "The beautifully simple design is a classic that can be worn both as an everyday accessory or for a special occasion such as a wedding or other formal event. It is also a great choice as a gift for a bridesmaid, bride-to-be or for a wedding anniversary.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11010YW-05_de930447-7676-4617-932c-85665d8249e8_635x_crop_center@2x.jpg?v=1631397580",
+      "price": "$169.00",
+      "rate": "5",
+      "size": "",
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "productId": "2",
+      "title": "14K Gold Trio Diamond Bracelet with Thin Chain",
+      "category": "bracelet",
+      "description": "A row of three flawless round-cut bezel-set diamonds sits at the center of a dainty 14K gold chain.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11008YW_1x1_77ae2016-148e-4c20-b0fa-35e0b8d2327f_635x_crop_center@2x.jpg?v=1631401507",
+      "price": "$194.50",
+      "rate": "4",
+      "size": "",
+      "quantity": 1
+    },
+    {
+      "id": "1",
+      "productId": "1",
+      "title": "14k Gold Bezel Setting Diamond Solitaire Bracelet 0.05ctw",
+      "category": "bracelet",
+      "description": "The beautifully simple design is a classic that can be worn both as an everyday accessory or for a special occasion such as a wedding or other formal event. It is also a great choice as a gift for a bridesmaid, bride-to-be or for a wedding anniversary.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11010YW-05_de930447-7676-4617-932c-85665d8249e8_635x_crop_center@2x.jpg?v=1631397580",
+      "price": "$169.00",
+      "rate": "5",
+      "size": "",
+      "quantity": 1
+    },
+    {
+      "id": "1",
+      "productId": "1",
+      "title": "14k Gold Bezel Setting Diamond Solitaire Bracelet 0.05ctw",
+      "category": "bracelet",
+      "description": "The beautifully simple design is a classic that can be worn both as an everyday accessory or for a special occasion such as a wedding or other formal event. It is also a great choice as a gift for a bridesmaid, bride-to-be or for a wedding anniversary.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11010YW-05_de930447-7676-4617-932c-85665d8249e8_635x_crop_center@2x.jpg?v=1631397580",
+      "price": "$169.00",
+      "rate": "5",
+      "size": "",
+      "quantity": 1
+    },
+    {
+      "id": "1",
+      "productId": "1",
+      "title": "14k Gold Bezel Setting Diamond Solitaire Bracelet 0.05ctw",
+      "category": "bracelet",
+      "description": "The beautifully simple design is a classic that can be worn both as an everyday accessory or for a special occasion such as a wedding or other formal event. It is also a great choice as a gift for a bridesmaid, bride-to-be or for a wedding anniversary.",
+      "image": "https://ferkosfinejewelry.com/cdn/shop/products/B11010YW-05_de930447-7676-4617-932c-85665d8249e8_635x_crop_center@2x.jpg?v=1631397580",
+      "price": "$169.00",
+      "rate": "5",
+      "size": "",
+      "quantity": 3
+    }
+  ],
+  "users": [
+    {
+      "id": "41f4",
+      "fname": "Nensi",
+      "lname": "SONANI",
+      "email": "nira@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "25ca",
+      "fname": "Nensi",
+      "lname": "SONANI",
+      "email": "nira@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "38c4",
+      "fname": "Nensi",
+      "lname": "SONANI",
+      "email": "nira@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "ce6d",
+      "fname": "Nensi",
+      "lname": "SONANI",
+      "email": "q@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "3bdc",
+      "email": "nira@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "7c21",
+      "email": "nira@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "4d4b",
+      "email": "nira@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "318b",
+      "email": "nira@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "e21d",
+      "fname": "Nensi",
+      "lname": "SONANI",
+      "email": "testuser3@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "1ec5",
+      "email": "testuser3@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "3d85",
+      "fname": "Nensi",
+      "lname": "SONANI",
+      "email": "d@gamil.com",
+      "password": "1234567"
+    },
+    {
+      "id": "f6f2",
+      "fname": "nen",
+      "lname": "hjdhf",
+      "email": "hjasgd@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "7af7",
+      "fname": "rgd",
+      "lname": "SONANI",
+      "email": "b@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "8920",
+      "fname": "edgt",
+      "lname": "dgd",
+      "email": "e@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "e89d",
+      "fname": "Nensi",
+      "lname": "SONANI",
+      "email": "t@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "8733",
+      "fname": "abc",
+      "lname": "def",
+      "email": "abc@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "f54d",
+      "fname": "Nensi",
+      "lname": "mkro",
+      "email": "WEMLKIJO@GMAIL.COM",
+      "password": "123456789"
+    },
+    {
+      "id": "6a3e",
+      "fname": "nency",
+      "lname": "nency",
+      "email": "nency@gmail.com",
+      "password": "123456"
+    }
+  ]
 }
